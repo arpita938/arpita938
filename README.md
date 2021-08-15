@@ -15,7 +15,9 @@ Here are some ideas to get you started:--->
 - 💬 Ask me about anything and everything.
 - 📫 How to reach me: arpitabhd@gmail.com
 - ⚡ Fun fact: Jack of all trades , Master of None !
-  
+
+
+  <img src="https://github-readme-stats.vercel.app/api?username=arpita938&show_icons=true&theme=radical">
   
   
 
