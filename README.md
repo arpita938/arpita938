@@ -21,7 +21,8 @@ Here are some ideas to get you started:--->
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=arpita938&layout=compact">
   
   <br>
- RESUME: <a href="https://github.com/arpita938/Portfolio/blob/main/Resume.ARPITA_BHATT.pdf"> </a>
+ RESUME: [Resume.ARPITA_BHATT (1).pdf](https://github.com/arpita938/arpita938/files/7989875/Resume.ARPITA_BHATT.1.pdf)
+
   
 
 
