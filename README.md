@@ -21,7 +21,7 @@ Here are some ideas to get you started:--->
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=arpita938&layout=compact">
   
   <br>
- RESUME: https://drive.google.com/file/d/1TLShzU3HwbuLz0eHCJYy3eJN-R1NDkJs/view?usp=sharing
+ RESUME: https://drive.google.com/file/d/18qMjGKDIdF9KNKfi1wQdoRhpeOEDqJXb/view?usp=sharing
 
   
 
